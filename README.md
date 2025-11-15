@@ -134,9 +134,6 @@ Note: As of Nov 2025, the Hyvä Theme core is fully free and open source (OSL3 +
 - https://www.youtube.com/hyva-themes  
   Official YouTube channel.
 
-- https://heybourn.dev/blog/alpinejs-tips/  
-  Alpine.js tips and tricks.
-
 ---
 
 ## 7. Paid Hyvä Products (Optional)
@@ -150,15 +147,3 @@ Note: As of Nov 2025, the Hyvä Theme core is fully free and open source (OSL3 +
 - https://tailwindui.com/  
   Premium Tailwind components.
 
----
-
-## 8. Free Tools for Hyvä Development
-
-- https://github.com/hyva-themes/magento2-hyva-theme-tooling  
-  Hyvä tooling (Tailwind build helpers).
-
-- https://github.com/hyva-themes/magento2-hyva-reset  
-  Reset CSS for Hyvä.
-
-- https://github.com/magento/magento2-functional-testing-framework  
-  MFTF for layout testing.
