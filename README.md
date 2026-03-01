@@ -6,7 +6,6 @@ A curated list of free and paid resources for Hyvä theme development (2024–20
 
 **Current Status:**
 As of November 2025, the Hyvä Theme core is open source (OSL-3.0 and AFL-3.0 licenses). It is a widely adopted frontend for Magento 2 and Adobe Commerce, utilized by numerous agencies for its performance benefits and developer experience.
----
 
 ## 1. Official Hyvä Resources
 - [Official Hyvä Documentation](https://docs.hyva.io/) – Comprehensive technical guides and the primary starting point for developers.
