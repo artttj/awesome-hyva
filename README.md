@@ -1,10 +1,11 @@
 # Awesome Hyvä Resources for Magento 2
 
+[**Hyvä**](https://www.hyva.io/) (pronounced **Hoo-vuh** — derived from the Finnish word for "good") is a modern, high-performance frontend for Magento 2. It replaces the complex, legacy tech stack (Knockout.js, RequireJS, Less) with a streamlined architecture based on **Tailwind CSS** and **Alpine.js**.
+
 A curated list of free and paid resources for Hyvä theme development (2024–2026).
 
 **Current Status:**
 As of November 2025, the Hyvä Theme core is open source (OSL-3.0 and AFL-3.0 licenses). It is a widely adopted frontend for Magento 2 and Adobe Commerce, utilized by numerous agencies for its performance benefits and developer experience.
-
 ---
 
 ## 1. Official Hyvä Resources
